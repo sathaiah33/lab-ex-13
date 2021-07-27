@@ -7,7 +7,7 @@ package lab13;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 import javax.swing.*;  
 import java.awt.*;  
